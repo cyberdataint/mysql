@@ -1,0 +1,15 @@
+TYPE=VIEW
+query=select 1 AS `recipe_id`,1 AS `name`,1 AS `image`,1 AS `comment_txt`,1 AS `user_name`,1 AS `rating`
+md5=cda08d4529970aa06109de0746b8e0a6
+updatable=0
+algorithm=0
+definer_user=111
+definer_host=localhost
+suid=1
+with_check_option=0
+timestamp=2024-11-12 19:24:03
+create-version=1
+source=select 1 AS `recipe_id`,1 AS `name`,1 AS `image`,1 AS `comment_txt`,1 AS `user_name`,1 AS `rating`
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_unicode_ci
+view_body_utf8=select 1 AS `recipe_id`,1 AS `name`,1 AS `image`,1 AS `comment_txt`,1 AS `user_name`,1 AS `rating`

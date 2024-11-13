@@ -1,0 +1,15 @@
+TYPE=VIEW
+query=select 1 AS `recipe_id`,1 AS `name`,1 AS `image`,1 AS `ingredients`,1 AS `category_name`,1 AS `cuisine_name`,1 AS `preparation_time`,1 AS `preparation_sequence`,1 AS `preparation_text`,1 AS `preparation_image`
+md5=f52984f0fe9f817b6f83a3127de3753e
+updatable=0
+algorithm=0
+definer_user=111
+definer_host=localhost
+suid=1
+with_check_option=0
+timestamp=2024-11-12 19:24:03
+create-version=1
+source=select 1 AS `recipe_id`,1 AS `name`,1 AS `image`,1 AS `ingredients`,1 AS `category_name`,1 AS `cuisine_name`,1 AS `preparation_time`,1 AS `preparation_sequence`,1 AS `preparation_text`,1 AS `preparation_image`
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_unicode_ci
+view_body_utf8=select 1 AS `recipe_id`,1 AS `name`,1 AS `image`,1 AS `ingredients`,1 AS `category_name`,1 AS `cuisine_name`,1 AS `preparation_time`,1 AS `preparation_sequence`,1 AS `preparation_text`,1 AS `preparation_image`
